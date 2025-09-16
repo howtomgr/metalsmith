@@ -1,0 +1,63 @@
+{
+  "category": "static-site-generators",
+  "created_date": "2025-09-15T22:48:58.183576",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [
+    "nodejs",
+    "npm"
+  ],
+  "description": "metalsmith is a free and open-source pluggable generator. Metalsmith provides extremely simple, pluggable static site generator",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/static-site-generators/metalsmith",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/static-site-generators/metalsmith",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.183603",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "metalsmith",
+  "repository_url": "https://github.com/howtomgr/metalsmith",
+  "spec_version": "2.0",
+  "subcategory": "static-site-generators",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "static-site-generators",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "metalsmith Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/static-site-generators/metalsmith"
+}
